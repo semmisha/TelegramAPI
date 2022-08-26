@@ -1,4 +1,4 @@
-module TelegramCLII
+module TelegramAPI
 
 go 1.18
 

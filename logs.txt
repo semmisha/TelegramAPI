@@ -1,0 +1,15 @@
+{"file":"file:API.go , line:39","func":"TelegramAPI/input/http.(*Api).PostMessage","level":"fatal","msg":"Unable to unmarshal unexpected end of JSON input"}
+{"file":"file:API.go , line:39","func":"TelegramAPI/input/http.(*Api).PostMessage","level":"fatal","msg":"Unable to unmarshal invalid character '-' in numeric literal"}
+{"file":"file:API.go , line:39","func":"TelegramAPI/input/http.(*Api).PostMessage","level":"fatal","msg":"Unable to unmarshal invalid character '-' in numeric literal"}
+{"file":"file:API.go , line:39","func":"TelegramAPI/input/http.(*Api).PostMessage","level":"fatal","msg":"Unable to unmarshal invalid character '-' in numeric literal"}
+{"file":"file:API.go , line:39","func":"TelegramAPI/input/http.(*Api).PostMessage","level":"fatal","msg":"Unable to unmarshal invalid character '-' in numeric literal"}
+{"file":"file:API.go , line:39","func":"TelegramAPI/input/http.(*Api).PostMessage","level":"fatal","msg":"Unable to unmarshal invalid character ':' after top-level value"}
+{"file":"file:API.go , line:39","func":"TelegramAPI/input/http.(*Api).PostMessage","level":"fatal","msg":"Unable to unmarshal invalid character '-' in numeric literal"}
+{"file":"file:API.go , line:39","func":"TelegramAPI/input/http.(*Api).PostMessage","level":"fatal","msg":"Unable to unmarshal invalid character '-' in numeric literal"}
+{"file":"file:API.go , line:39","func":"TelegramAPI/input/http.(*Api).PostMessage","level":"fatal","msg":"Unable to unmarshal unexpected end of JSON input"}
+{"file":"file:API.go , line:39","func":"TelegramAPI/input/http.(*Api).PostMessage","level":"fatal","msg":"Unable to unmarshal invalid character '-' in numeric literal"}
+{"file":"file:API.go , line:39","func":"TelegramAPI/input/http.(*Api).PostMessage","level":"fatal","msg":"Unable to unmarshal invalid character 'c' looking for beginning of value"}
+{"file":"file:API.go , line:39","func":"TelegramAPI/input/http.(*Api).PostMessage","level":"fatal","msg":"Unable to unmarshal unexpected end of JSON input"}
+{"file":"file:API.go , line:33","func":"TelegramAPI/input/http.(*Api).PostMessage","level":"fatal","msg":"Unable to read body \u003cnil\u003e"}
+{"file":"file:API.go , line:33","func":"TelegramAPI/input/http.(*Api).PostMessage","level":"fatal","msg":"Unable to read body \u003cnil\u003e"}
+{"file":"file:handlers.go , line:47","func":"TelegramAPI/input/http.(*Api).PostMessage","level":"error","msg":"Bad Request: chat not found"}
