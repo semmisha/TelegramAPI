@@ -5,22 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="fec11259-606d-4bf9-aec1-4e64e450e20e" name="Changes" comment="Initial commit">
-      <change afterPath="$PROJECT_DIR$/input/http/handlers.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/input/http/interface.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/input/http/router.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/input/http/structure.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/output/telegram/interface.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/output/telegram/structure.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/processor/process.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/processor/struct.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/TelegramCLII.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/TelegramCLII.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmd/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/cmd/main.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/go.mod" beforeDir="false" afterPath="$PROJECT_DIR$/go.mod" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/logs.txt" beforeDir="false" afterPath="$PROJECT_DIR$/logs.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/interface.go" beforeDir="false" afterPath="$PROJECT_DIR$/output/interface.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/telegram/telegram.go" beforeDir="false" afterPath="$PROJECT_DIR$/output/telegram/telegram.go" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
