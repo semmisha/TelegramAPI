@@ -14,7 +14,7 @@ func (T *Api) CheckConnection(w http.ResponseWriter, r *http.Request) {
 		logger = T.logging
 	)
 	w.WriteHeader(http.StatusOK)
-	_, err := w.Write([]byte("Checked success"))
+	_, err := w.Write([]byte("Checked success v1.1"))
 	if err != nil {
 		logger.Errorln("Unable to write status", err)
 
@@ -43,11 +43,15 @@ func (T *Api) PostMessage(w http.ResponseWriter, r *http.Request) {
 	fmt.Printf("%+v", T.Message)
 	text, chn := InputApi(T).Export()
 	tgrm := telegram.NewTelegram("5203368767:AAH5fdcTNV2Zj41Cp3SbTXYYWftY7H5eze0", chn)
+
 	_, err = tgrm.Write([]byte(text))
 	if err != nil {
 		logger.Errorln(err)
 
 	}
 	w.WriteHeader(http.StatusOK)
-
+	_, err = w.Write([]byte("Success"))
+	if err != nil {
+		logger.Error("Unable to write response")
+	}
 }

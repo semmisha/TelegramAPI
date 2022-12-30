@@ -34,7 +34,7 @@ func Logger() (logger *logrus.Logger) {
 	})
 	logger.SetOutput(io.Discard)
 
-	tlgWriter := ClientAPI.NewConnection("@test111_111", "http://172.16.14.67:9999/PostMessage")
+	tlgWriter := ClientAPI.NewConnection("@test111_111", "http://127.0.0.1:9999/PostMessage")
 	filename := "/app/logging/logs.txt"
 	file, err := os.OpenFile(filename, os.O_CREATE|os.O_APPEND|os.O_WRONLY, 0777)
 	if err != nil {
