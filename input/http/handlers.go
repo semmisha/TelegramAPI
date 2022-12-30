@@ -14,7 +14,7 @@ func (T *Api) CheckConnection(w http.ResponseWriter, r *http.Request) {
 		logger = T.logging
 	)
 	w.WriteHeader(http.StatusOK)
-	_, err := w.Write([]byte("Checked success v1.2"))
+	_, err := w.Write([]byte("Checked success v1.3 !!!!!!!"))
 	if err != nil {
 		logger.Errorln("Unable to write status", err)
 
